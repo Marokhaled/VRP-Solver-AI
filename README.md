@@ -197,11 +197,5 @@ Possible future improvements include:
 * Add additional optimization algorithms
 * Separate the application into multiple Python modules for better maintainability
 
-## 👤 Author
 
-**Marwan Khaled**
-
----
-
-⭐ If you find this project useful or interesting, feel free to star the repository!
 
